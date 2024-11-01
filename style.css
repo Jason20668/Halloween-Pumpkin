@@ -168,8 +168,3 @@ body {
           transform: scale(0.8);
       }
   }
-
-  .pumpkin:hover {
-    scale 3.5;
-    transition: scale 0.2s;
-  }
