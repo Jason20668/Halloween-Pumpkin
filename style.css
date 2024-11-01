@@ -11,6 +11,14 @@ body {
     overflow: hidden;
 }
 
+p {
+  color: white;
+  z-index: 1;
+  font-size: 50px;
+  position: fixed;
+  padding-top: 300px;
+}
+
 .container {
     display: flex;
     justify-content: center;
